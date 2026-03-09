@@ -3,7 +3,7 @@
 <script type="text/javascript">
 <!--
 function delayer(){
-    window.location = "https://www.elhomeo.com"
+    window.location = "https://xxx.com"
 }
 //-->
 </script>
